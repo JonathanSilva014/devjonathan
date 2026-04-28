@@ -24,7 +24,7 @@ export function Header() {
           <div className="flex h-11 w-11 items-center justify-center rounded-xl border border-white/10 bg-white/5">
             <Image
               src="/letra-j.png"
-              alt="Logo Jonathan"
+              alt="letra-j"
               width={28}
               height={28}
               priority

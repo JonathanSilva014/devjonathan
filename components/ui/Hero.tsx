@@ -105,7 +105,7 @@ export function Hero() {
             <div className="relative h-48 w-40 overflow-hidden rounded-full border-4 border-violet-500/40 shadow-2xl md:h-72 md:w-72 lg:h-80 lg:w-60">
               <Image
                 src="/jonny.jpg"
-                alt="Jonathan Silva"
+                alt="jonny"
                 fill
                 priority
                 className="object-cover"
